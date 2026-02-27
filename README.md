@@ -1,24 +1,29 @@
-# ⚡ NEURAL_INTERFACE // V2.0 ⚡
+# ⚡ NEURAL_INTERFACE // ROYEL_NATH ⚡
 
-> **STATUS:** DEPLOYED
-> **VERSION:** 2.0.4
-> **ENCRYPTION:** AES-256 ENABLED
+> **SYSTEM_STATUS:** OPERATIONAL
+> **DESIGN_LANGUAGE:** CYBER-INDUSTRIAL / TERMINAL
+> **ENCRYPTION:** AES-256 ACTIVE
 
-### [SYSTEM_OVERVIEW]
-This repository contains the source code for my digital terminal—a high-performance, responsive portfolio built with a Cyber-Industrial aesthetic. Designed for speed, stability, and low-latency user interaction.
+## [SYSTEM_OVERVIEW]
+A high-performance, responsive portfolio engineered for the neon frontier. This project serves as a central uplink for my technical architecture, featuring custom CSS glitch engines and dynamic data-injection modules.
 
-### 🛠️ TECH_STACK
-- **CORE:** HTML5 / CSS3 / JavaScript (ES6 Modules)
-- **ENGINE:** Custom CSS Glitch Framework & Intersection Observer API
-- **THEME:** Terminal-Dark / High-Contrast Cyan & Magenta
+## 🛠️ PROJECT_STRUCTURE
+The architecture follows a modular directory system for maximum scalability and clean data management.
 
-### 🛰️ KEY_FEATURES
-- **GLITCH_ENGINE:** CSS-only chromatic aberration and text-slicing effects.
-- **RESPONSIVE_MATIX:** Fully stable mobile navigation with a side-bar slide-in.
-- **NEURAL_FORMS:** Validated contact interface with custom modal notification logic.
-- **DATA_RENDERER:** Dynamic project injection via asynchronous JavaScript.
-
-### 🚀 INITIALIZE_LOCAL_ENVIRONMENT
-1. Clone the uplink: 
-   `git clone https://github.com/YOUR_USERNAME/portfolio-v2.git`
-2. Open `index.html` in your neural link (browser).
+```text
+root/
+│
+├── index.html              # Core System Entry (Main UI)
+├── royel_nath_without_bg.png # Primary Hero Visual
+│
+├── image/                  # Asset Storage
+│   └── fevicon.png         # System Icon
+│
+└── src/                    # Logic & Styling Modules
+    ├── style.css           # Global Visual Parameters
+    ├── responsive.css      # Mobile Matrix Configurations
+    ├── script.js           # Core System Controller (Nav/Scroll/Year)
+    ├── skill.js            # Technical Stack Data & Renderer
+    ├── project.js          # Project Archive Data & Renderer
+    ├── education.js        # Timeline History & Renderer
+    └── form.js             # Communication Uplink & Modal Logic
